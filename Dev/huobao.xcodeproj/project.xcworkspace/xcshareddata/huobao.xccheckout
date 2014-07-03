@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>B5BBE736-DC35-40AA-9ED2-196C08D73278</string>
+	<key>IDESourceControlProjectName</key>
+	<string>huobao</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>00310043-49DC-48EB-A21B-EBC7D036F21C</key>
+		<string>svn://192.168.1.222:36900/huobaoService/ios_</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>trunk/huobao/Dev/huobao.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>00310043-49DC-48EB-A21B-EBC7D036F21C</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>00310043-49DC-48EB-A21B-EBC7D036F21C</key>
+		<string>svn://192.168.1.222:36900/huobaoService</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>svn://192.168.1.222:36900/huobaoService/ios_/trunk/huobao/huobao.xcodeproj</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>00310043-49DC-48EB-A21B-EBC7D036F21C</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>00310043-49DC-48EB-A21B-EBC7D036F21C</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ios_</string>
+		</dict>
+	</array>
+</dict>
+</plist>
